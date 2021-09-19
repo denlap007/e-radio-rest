@@ -4,14 +4,12 @@ A REST API service to get e-radio stations data from e-radio.gr portal.
 
 ## Contents
 
-- [e-radio-rest](#e-radio-rest)
-  - [Contents](#contents)
-  - [Requirements](#requirements)
-  - [Installation](#installation)
-  - [Testing](#testing)
-  - [Quickstart](#quickstart)
-  - [API](#api)
-  - [License](#license)
+-   [Requirements](#requirements)
+-   [Installation](#installation)
+-   [Testing](#testing)
+-   [Quickstart](#quickstart)
+-   [API](#api)
+-   [License](#license)
 
 ## Requirements
 

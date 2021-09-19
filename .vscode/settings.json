@@ -5,6 +5,7 @@
     // Runs Prettier, then ESLint
     "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"],
     "files.eol": "\n",
+    "markdown.extension.toc.updateOnSave": false,
     "licenser.license": "GPLv3",
     "licenser.author": "Dionysis Lappas"
 }
