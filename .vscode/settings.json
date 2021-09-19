@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.probe": ["javascript"],
+    "editor.formatOnSave": false,
+    // Runs Prettier, then ESLint
+    "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"],
+    "files.eol": "\n",
+    "licenser.license": "GPLv3",
+    "licenser.author": "Dionysis Lappas"
+}
